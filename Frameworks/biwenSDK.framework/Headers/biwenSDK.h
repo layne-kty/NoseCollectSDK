@@ -15,6 +15,6 @@ FOUNDATION_EXPORT double biwenSDKVersionNumber;
 FOUNDATION_EXPORT const unsigned char biwenSDKVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <biwenSDK/PublicHeader.h>
-#import <>
+#import <biwenSDK/NoseInterface.h>
 
 
