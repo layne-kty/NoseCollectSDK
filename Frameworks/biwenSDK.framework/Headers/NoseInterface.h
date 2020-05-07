@@ -11,21 +11,28 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
+
+@protocol NoseInterfaceDelegate <NSObject>
+@optional
+
+/*
+ 判断采集是否成功
+ @param collectStatus 采集状态  yes 成功   no 失败
+ */
+- (void)noseCollectIsSuccess:(BOOL)collectStatus;
+
+@end
+
+
+
 @interface NoseInterface : NSObject
+
 
 /**
  初始化SDK
  */
 + (void)initNoseCollect;
 
-/**
- 登录
- @param userName 用户名
- @param password 登录密码
- */
-+ (void)loginWithuserName:(NSString *)userName
-                 password:(NSString *)password
-               completion:(void (^)(NSInteger))block;
 
 /**
  弹出采集页面
@@ -33,6 +40,14 @@ NS_ASSUME_NONNULL_BEGIN
 + (void)pushNoseCollectViewController:(UIViewController *)controller
                              Animated:(BOOL)animated
                            completion:(void(^)(void))completion;
+
+
+/**
+ 添加代理获取监听各种事件，可添加多个代理
+
+ @param delegate delegate
+ */
++ (void)addDelegate:(id<NoseInterfaceDelegate>)delegate;
 
 @end
 
