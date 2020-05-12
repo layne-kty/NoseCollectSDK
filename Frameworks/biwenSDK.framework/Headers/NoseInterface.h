@@ -36,9 +36,11 @@ NS_ASSUME_NONNULL_BEGIN
 
 /**
  弹出采集页面
+ @param dogCode 宠物编号
  */
 + (void)pushNoseCollectViewController:(UIViewController *)controller
                              Animated:(BOOL)animated
+                              dogCode:(NSString *)dogCode
                            completion:(void(^)(void))completion;
 
 
