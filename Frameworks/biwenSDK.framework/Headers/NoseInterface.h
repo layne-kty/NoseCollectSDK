@@ -36,7 +36,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 /**
  弹出采集页面
- @param dogCode 宠物编号
+ @param dogCode 宠物编号 不能为空
  */
 + (void)pushNoseCollectViewController:(UIViewController *)controller
                              Animated:(BOOL)animated
