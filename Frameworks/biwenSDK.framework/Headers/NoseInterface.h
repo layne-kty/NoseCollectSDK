@@ -39,8 +39,8 @@ NS_ASSUME_NONNULL_BEGIN
  @param dogCode 宠物编号 不能为空
  */
 + (void)pushNoseCollectViewController:(UIViewController *)controller
-                             Animated:(BOOL)animated
                               dogCode:(NSString *)dogCode
+                             Animated:(BOOL)animated
                            completion:(void(^)(void))completion;
 
 
