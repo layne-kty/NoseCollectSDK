@@ -4,24 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
-<<<<<<< HEAD
-=======
-		<key>Headers/NoseInterface.h</key>
-		<data>
-		baH0MGJmlaCKybhO6Ej+PECkXAw=
-		</data>
->>>>>>> 3fe46f8be151c10b4489786ea89cd29c2016f8e7
 		<key>Headers/biwenSDK.h</key>
 		<data>
 		ipAQfVe5Pn61L3VAhNpmUeT4eTk=
 		</data>
 		<key>Info.plist</key>
 		<data>
-<<<<<<< HEAD
 		0ddK2PjeIUED6foT6p+Uh5p0p5Q=
-=======
-		3UQOhjHPS41F9LkxF6eG659Lm14=
->>>>>>> 3fe46f8be151c10b4489786ea89cd29c2016f8e7
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -30,20 +19,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-<<<<<<< HEAD
-=======
-		<key>Headers/NoseInterface.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			baH0MGJmlaCKybhO6Ej+PECkXAw=
-			</data>
-			<key>hash2</key>
-			<data>
-			RVseG7f0U0vLGSB85LHwq9txJ/uVa8RrJnXkLhdjtjQ=
-			</data>
-		</dict>
->>>>>>> 3fe46f8be151c10b4489786ea89cd29c2016f8e7
 		<key>Headers/biwenSDK.h</key>
 		<dict>
 			<key>hash</key>
