@@ -4,14 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/NoseErrorDefine.h</key>
-		<data>
-		MjBSH/CUBSzPBGr2MTgtmWUE8k0=
-		</data>
-		<key>Headers/NoseInterface.h</key>
-		<data>
-		y5S/cetmdi9n7cm7T873LWJgh3g=
-		</data>
 		<key>Headers/biwenSDK.h</key>
 		<data>
 		ymxJQGYb9FshqWLop2jX6etQU9E=
@@ -27,28 +19,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/NoseErrorDefine.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			MjBSH/CUBSzPBGr2MTgtmWUE8k0=
-			</data>
-			<key>hash2</key>
-			<data>
-			fgT58efTHTkf2tXt1ca8toW30Vd4ilaL8/8fMt5yoZk=
-			</data>
-		</dict>
-		<key>Headers/NoseInterface.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			y5S/cetmdi9n7cm7T873LWJgh3g=
-			</data>
-			<key>hash2</key>
-			<data>
-			0asNlpUMqRwj50WVx0WSm0wRITejgkwGGzgorV0XXKo=
-			</data>
-		</dict>
 		<key>Headers/biwenSDK.h</key>
 		<dict>
 			<key>hash</key>
