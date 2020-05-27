@@ -1,6 +1,0 @@
-framework module biwenSDK {
-  umbrella header "biwenSDK.h"
-
-  export *
-  module * { export * }
-}
