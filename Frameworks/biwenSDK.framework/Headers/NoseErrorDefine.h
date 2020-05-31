@@ -16,10 +16,11 @@ typedef NS_ENUM(NSInteger, NOSEBackCode){
     NOSEBackCodeHasSame = -2,      // 重复采集了
     NOSEBackCodeNotActive = -3  , // 不是活体
     NOSEBackCodeNotNose = -4,     // 未检测到鼻子
-    NOSEBackCodeNetError = -5,     // 系统异常
+    NOSEBackCodeNetError = -5,     // 系统异常 / 服务器错误
     NOSEBackCodeHasNotCollect = -6,  //  该编号暂未采集特征数据！
     NOSEBackCodeMatchFail = -7,     //匹配失败
     NOSEBackCodeIsNotExist = -8,     // 编号不存在
+    NOSEBackCodeIsLoading = -9   // 特征数据生成中,请稍后再试！
 };
 
 
