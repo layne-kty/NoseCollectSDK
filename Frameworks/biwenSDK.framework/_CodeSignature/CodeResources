@@ -10,11 +10,11 @@
 		</data>
 		<key>Headers/NoseInterface.h</key>
 		<data>
-		PUXQR+awbwdzs4YKQS6DHajFBdM=
+		KDQ1N5CmKhEqqpilVsU9yhQHU1Q=
 		</data>
 		<key>Headers/biwenSDK.h</key>
 		<data>
-		ymxJQGYb9FshqWLop2jX6etQU9E=
+		W58KLhnnjqt/fiSzPK5f1FuZ/Io=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -42,22 +42,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PUXQR+awbwdzs4YKQS6DHajFBdM=
+			KDQ1N5CmKhEqqpilVsU9yhQHU1Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			WX3lHFtTbYLmQnlh/9N+7aL8XeB8bYZpvZmldOEjPwo=
+			jlycSkKYrHaPpxBiJ4WR4xg6Yjf9XD1qjxrAR+KQ6VI=
 			</data>
 		</dict>
 		<key>Headers/biwenSDK.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ymxJQGYb9FshqWLop2jX6etQU9E=
+			W58KLhnnjqt/fiSzPK5f1FuZ/Io=
 			</data>
 			<key>hash2</key>
 			<data>
-			/ow2Yj2HUxhdL5QC4cyyO2RefHehAnYm0f6juWILjoQ=
+			86ZecZoSKIhsdJ1w0dR7F0YK2K86uCFWlRqCYhgyH/w=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

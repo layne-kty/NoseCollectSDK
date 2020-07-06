@@ -18,3 +18,4 @@ FOUNDATION_EXPORT const unsigned char biwenSDKVersionString[];
 
 #import <biwenSDK/NoseInterface.h>
 #import <biwenSDK/NoseErrorDefine.h>
+#import <biwenSDK/NoseCollectModel.h>

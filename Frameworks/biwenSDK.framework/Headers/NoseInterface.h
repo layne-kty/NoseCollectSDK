@@ -9,6 +9,7 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 #import "NoseErrorDefine.h"
+#import "NoseCollectModel.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
@@ -18,9 +19,16 @@ NS_ASSUME_NONNULL_BEGIN
 
 /*
  判断采集是否成功
- @param collectStatus 采集状态  yes 成功   no 失败
+ @param noseBackCode 采集状态  yes 成功   no 失败
  */
 - (void)noseCollectIsSuccess:(NOSEBackCode)noseBackCode;
+
+/**
+ 判断识别是否成功
+ @param dogArray 当1：N识别时 返回数组
+ */
+- (void)noseLinvenseIsSuccess:(NOSEBackCode)noseBackCode
+                     dogArray:(NSArray <NoseCollectModel *>*)dogArray;
 
 @end
 
