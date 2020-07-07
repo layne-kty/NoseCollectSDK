@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/NoseCollectModel.h</key>
+		<data>
+		Y5aOguxXYYeeZFgvfy33Y7WzgGk=
+		</data>
 		<key>Headers/NoseErrorDefine.h</key>
 		<data>
 		Jl02Km1b23vApLf++a1eqbNr66Y=
@@ -18,7 +22,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		TqNAthIGS/haz9Xq5xO5RfQlsxo=
+		HcrKCzBFbq+N5sFdnGWoWL5Vq2k=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -27,6 +31,17 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/NoseCollectModel.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Y5aOguxXYYeeZFgvfy33Y7WzgGk=
+			</data>
+			<key>hash2</key>
+			<data>
+			DKwNM4XAMtAWgptRUcqqMa5PMjjZhuuiQl5j1MtigNg=
+			</data>
+		</dict>
 		<key>Headers/NoseErrorDefine.h</key>
 		<dict>
 			<key>hash</key>
