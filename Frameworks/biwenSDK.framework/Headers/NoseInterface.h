@@ -30,6 +30,13 @@ NS_ASSUME_NONNULL_BEGIN
 - (void)noseLinvenseIsSuccess:(NOSEBackCode)noseBackCode
                      dogArray:(NSArray <NoseCollectModel *>*)dogArray;
 
+/**
+ 当重复采集时返回dogId
+ @param dogId 狗Id
+ */
+- (void)repeatCollectCode:(NOSEBackCode)noseBackCode
+                    dogId:(NSString *)dogId;
+
 @end
 
 

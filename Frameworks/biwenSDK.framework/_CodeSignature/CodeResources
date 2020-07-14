@@ -4,13 +4,17 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/NoseCollectModel.h</key>
+		<data>
+		Y5aOguxXYYeeZFgvfy33Y7WzgGk=
+		</data>
 		<key>Headers/NoseErrorDefine.h</key>
 		<data>
 		Jl02Km1b23vApLf++a1eqbNr66Y=
 		</data>
 		<key>Headers/NoseInterface.h</key>
 		<data>
-		KDQ1N5CmKhEqqpilVsU9yhQHU1Q=
+		SOGIx/liTj8kAToVIbYhmjQ+xCc=
 		</data>
 		<key>Headers/biwenSDK.h</key>
 		<data>
@@ -18,7 +22,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		TqNAthIGS/haz9Xq5xO5RfQlsxo=
+		HcrKCzBFbq+N5sFdnGWoWL5Vq2k=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -27,6 +31,17 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/NoseCollectModel.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Y5aOguxXYYeeZFgvfy33Y7WzgGk=
+			</data>
+			<key>hash2</key>
+			<data>
+			DKwNM4XAMtAWgptRUcqqMa5PMjjZhuuiQl5j1MtigNg=
+			</data>
+		</dict>
 		<key>Headers/NoseErrorDefine.h</key>
 		<dict>
 			<key>hash</key>
@@ -42,11 +57,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KDQ1N5CmKhEqqpilVsU9yhQHU1Q=
+			SOGIx/liTj8kAToVIbYhmjQ+xCc=
 			</data>
 			<key>hash2</key>
 			<data>
-			jlycSkKYrHaPpxBiJ4WR4xg6Yjf9XD1qjxrAR+KQ6VI=
+			5TjSgKi3nhVT3+2Zcvlps3UqUGBi/sYwu/W2MJQyKhU=
 			</data>
 		</dict>
 		<key>Headers/biwenSDK.h</key>
