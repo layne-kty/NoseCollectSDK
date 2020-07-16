@@ -79,7 +79,13 @@ NS_ASSUME_NONNULL_BEGIN
                          Animated:(BOOL)animated
                        completion:(void(^)(void))completion;
 
-
+/**
+重置文件
+ @param dogCode 宠物编号 不能为空
+*/
++ (void)resetFileWithDogCode:(NSString *)dogCode
+                   onSuccess:(void (^)(void))onSuccess
+                   onFailure:(void (^)(NSString *))onFailure;
 
 /**
  添加代理获取监听各种事件，可添加多个代理
