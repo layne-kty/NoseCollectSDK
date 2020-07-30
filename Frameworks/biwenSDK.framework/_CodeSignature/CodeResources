@@ -22,7 +22,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
+<<<<<<< HEAD
 		RY7zsgVPbdRTLy1bH9z71trdIzE=
+=======
+		9Rmhb5SC6We2QFmGhzq0Fb6mewg=
+>>>>>>> 4eeef6ecc71f1d64cb28a0525c6262bd99cb402b
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
