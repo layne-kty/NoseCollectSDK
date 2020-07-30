@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "NoseCollectSDK"
-  spec.version      = "2.3.5"
+  spec.version      = "2.4.0"
   spec.summary      = "鼻纹采集"
 
   # This description is used to generate tags and improve search results.
